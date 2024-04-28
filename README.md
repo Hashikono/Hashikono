@@ -2,8 +2,8 @@ Languages learned:
 - Javascript
 - HTML
 - CSS
-- Python
-- XML
+- Python (did a course and forgot 90% of the content a month later)
+- XML (rarely used)
 - JSON
 - Brainf*ck
 - Labview (EV3)
