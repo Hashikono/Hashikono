@@ -1,5 +1,3 @@
-Passionate coder and language learner...
-
 Languages learned: 
 - Javascript
 - HTML
@@ -10,7 +8,7 @@ Languages learned:
 - Brainf*ck
 - Labview (EV3)
   
-Langauges currently trying to learn:
+Languages currently trying to learn:
 - Malbolge
 - SQL
 - Fanscript (fancade)
