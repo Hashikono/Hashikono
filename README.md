@@ -2,8 +2,8 @@ Languages learned:
 - Javascript
 - HTML
 - CSS
-- Python (did a course and forgot 90% of the content a month later)
-- XML (rarely used)
+- Python
+- XML
 - JSON
 - Brainf*ck
 - Labview (EV3)
@@ -11,11 +11,12 @@ Languages learned:
 Languages currently trying to learn:
 - Malbolge
 - SQL
+- PHP
 - Fanscript (fancade)
 - Java
   
 Actual languages: 
-- Indonesian (can only understand)
+- Indonesian 
 - English
-- Japanese (still learning)
-- Chinese (school course)
+- Japanese 
+- Chinese 
